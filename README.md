@@ -50,7 +50,7 @@
 <div align="center" class="emailme">
     <img src="https://blob.gifcities.org/gifcities/QK5SW2CKB54B7L2VOAKUJVHBLP4EBI6L.gif" alt="" srcset="">
     <br>
-    <img src="https://media1.tenor.com/m/L8wdfLfpYbMAAAAd/mogger.gif" alt="" srcset="">
+    <img src="[https://media1.tenor.com/m/L8wdfLfpYbMAAAAd/mogger.gif](https://c.tenor.com/fM8kRciqxHwAAAAC/tenor.gif)" alt="" srcset="">
 </div>
 
 <br>
