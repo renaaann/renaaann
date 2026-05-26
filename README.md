@@ -12,11 +12,15 @@
     <img src="https://img.shields.io/badge/renandsilvaa-010101?style=for-the-badge&logo=discord&logoColor=white" alt="discord" srcset="">
 </p>
 
-<h1></h1>
+<br>
+<br>
+
 <div align="center" class="div">
     <img src="https://blob.gifcities.org/gifcities/3NZE3RTPTPCQCJ7BZ5UKRXARL32AIL54.gif" alt="" srcset="">
 </div>
+
 <br>
+
 <div align="center" class="test">
     <img height="60" width="60" src="https://blob.gifcities.org/gifcities/BYJTTNI2CQURSYHCSEYYJKEUXD2O6UPM.gif" alt="" srcset="">
     <img height="60" src="https://blob.gifcities.org/gifcities/WPG4JHT4627ONM3BF5G3DEN2TYIB7UC3.gif" alt="" srcset="">
@@ -27,8 +31,7 @@
 </div>
 
 <br>
-<h1></h1>
-
+<br>
 <br>
 
 <div align="center" class="stats">
@@ -39,8 +42,7 @@
 
 
 <br>
-<h1></h1>
-
+<br>
 <br>
 
 <div align="center" class="emailme">
@@ -49,8 +51,6 @@
 </div>
 
 <br>
-
-<h1></h1>
 
 <br>
 <div align="center" class="footer">
