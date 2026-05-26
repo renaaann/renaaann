@@ -31,7 +31,7 @@
 
 <br>
 
-<div align="center" class="projets">
+<div align="center" class="stats">
     <img src="https://blob.gifcities.org/gifcities/5RSBW6LW5ZLSRTC5KRW65SOSDOSMJJVB.gif" alt="" srcset="">
     <br>
     <img src="https://blob.gifcities.org/gifcities/AMYSSIUAXVREQH5YV3DFXCKN4XALN26M.gif" alt="" srcset="">
@@ -45,8 +45,7 @@
 
 <div align="center" class="emailme">
     <img src="https://blob.gifcities.org/gifcities/QK5SW2CKB54B7L2VOAKUJVHBLP4EBI6L.gif" alt="" srcset="">
-    <br>
-    <img src="[https://media1.tenor.com/m/L8wdfLfpYbMAAAAd/mogger.gif](https://c.tenor.com/fM8kRciqxHwAAAAC/tenor.gif)" alt="" srcset="">
+    <img src="https://media.tenor.com/L8wdfLfpYbMAAAAM/mogger.gif" alt="" srcset="">
 </div>
 
 <br>
