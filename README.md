@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/renandsilvaa-010101?style=for-the-badge&logo=discord&logoColor=white" alt="discord" srcset="">
 </p>
 
-
 <h1></h1>
 <div align="center" class="div">
     <img src="https://blob.gifcities.org/gifcities/3NZE3RTPTPCQCJ7BZ5UKRXARL32AIL54.gif" alt="" srcset="">
