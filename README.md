@@ -1,4 +1,3 @@
-
 <div align="center" class="banner">
     <img width="900" height="250" src="https://blob.gifcities.org/gifcities/NNVGQBQOQMU4GTSSPZ3B2GJ44ZWMF4BB.gif" alt="what" srcset="">
 </div>
