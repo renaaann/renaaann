@@ -31,9 +31,6 @@
 </div>
 
 <br>
-<br>
-<br>
-
 <h1></h1>
 
 <br>
@@ -46,9 +43,6 @@
 
 
 <br>
-<br>
-<br>
-
 <h1></h1>
 
 <br>
@@ -59,8 +53,6 @@
     <img src="https://media1.tenor.com/m/L8wdfLfpYbMAAAAd/mogger.gif" alt="" srcset="">
 </div>
 
-<br>
-<br>
 <br>
 
 <h1></h1>
