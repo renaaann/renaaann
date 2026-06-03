@@ -6,9 +6,6 @@
     <a href="https://www.roblox.com/users/118463413/profile">
         <img src="https://img.shields.io/badge/roblox-010101?style=for-the-badge&logo=roblox&logoColor=white" alt="roblox" srcset="">
     </a>
-    <a href="https://steamcommunity.com/id/renandasilvaa/">
-        <img src="https://img.shields.io/badge/steam-010101?style=for-the-badge&logo=steam&logoColor=white" alt="steam" srcset="">
-    </a>
     <img src="https://img.shields.io/badge/renandsilvaa-010101?style=for-the-badge&logo=discord&logoColor=white" alt="discord" srcset="">
 </p>
 
