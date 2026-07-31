@@ -3,10 +3,7 @@
 </div>
 
 <p align="center">
-    <a href="https://www.roblox.com/users/118463413/profile">
-        <img src="https://img.shields.io/badge/roblox-F4320B?style=for-the-badge&logo=roblox&logoColor=white" alt="roblox" srcset="">
-    </a>
-    <img src="https://img.shields.io/badge/renandsilvaa-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord" srcset="">
+    <img src="https://img.shields.io/badge/renanrenann-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord" srcset="">
 </p>
 
 <br>
