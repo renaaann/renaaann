@@ -16,9 +16,6 @@
 <br>
 
 <div align="center" class="test">
-    <img height="60" width="60" src="https://blob.gifcities.org/gifcities/BYJTTNI2CQURSYHCSEYYJKEUXD2O6UPM.gif" alt="" srcset="">
-    <img height="60" src="https://blob.gifcities.org/gifcities/WPG4JHT4627ONM3BF5G3DEN2TYIB7UC3.gif" alt="" srcset="">
-    <img height="60" src="https://blob.gifcities.org/gifcities/3PCBCAEYPKZR4ABFJC45SNFJPACYSNCV.gif" alt="" srcset="">
     <img height="60" src="https://media.tenor.com/AnrcxcHiouMAAAAM/lua-roblox.gif" alt="" srcset="">
     <img height="60" src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/TyPVzfWm46.gif" alt="" srcset="">
     <img height="60" src="https://blob.gifcities.org/gifcities/DFXILXPJXOJFCQF5N6IQBLGYQMUUKPEL.gif" alt="" srcset="">
