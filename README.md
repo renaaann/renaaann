@@ -1,5 +1,5 @@
 <div align="center" class="banner">
-    <img width="900" height="250" src="https://blob.gifcities.org/gifcities/NNVGQBQOQMU4GTSSPZ3B2GJ44ZWMF4BB.gif" alt="what" srcset="">
+    <img width="900" height="250" src="https://blob.gifcities.org/gifcities/VJA7KQLMZMHIRE7MP6A7K4WLZVIZ75HR.gif" alt="what" srcset="">
 </div>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 <div align="center" class="div">
     <img src="https://blob.gifcities.org/gifcities/3NZE3RTPTPCQCJ7BZ5UKRXARL32AIL54.gif" alt="" srcset="">
-    <img src="https://blob.gifcities.org/gifcities/VNKNDR5MRR3R2VDK6JEPFSOJAMFPPRD5.gif" alt="" srcset="">
 </div>
 
 <br>
 
 <div align="center" class="skills">
-    <img height="60" src="https://media.tenor.com/AnrcxcHiouMAAAAM/lua-roblox.gif" alt="" srcset="">
-    
+    <img height="60" width="55" src="https://media.tenor.com/AnrcxcHiouMAAAAM/lua-roblox.gif" alt="Lua" srcset="">
+    <img height="60" width="55" src="https://blob.gifcities.org/gifcities/YPNPRB4ZWKEOGABQMSODNUYLQSD6CFCQ.gif" alt="Java" srcset="">
+    <img height="60" width="55" src="https://blob.gifcities.org/gifcities/CHLRV2GYD6PTTKKEXYWXZXIPM3Z53MKM.gif" alt="Python" srcset="">
     
 </div>
 
