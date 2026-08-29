@@ -11,6 +11,7 @@
 
 <div align="center" class="div">
     <img src="https://blob.gifcities.org/gifcities/3NZE3RTPTPCQCJ7BZ5UKRXARL32AIL54.gif" alt="" srcset="">
+    <img src="https://blob.gifcities.org/gifcities/VNKNDR5MRR3R2VDK6JEPFSOJAMFPPRD5.gif" alt="" srcset="">
 </div>
 
 <br>
